@@ -1,0 +1,5 @@
+entry,type,data
+a,A,1.1.1.1
+b,A,2.2.2.2
+c,CNAME,localhost
+d,CNAME,localhost
